@@ -1,4 +1,4 @@
-# Proyek Aplikasi Laporan Kegiatan Guru
+# Proyek Aplikasi Kegiatan Guru
 
 Ini adalah proyek aplikasi web sederhana yang saya bangun untuk latihan dan portofolio. Tujuannya adalah untuk membuat sistem pencatatan kegiatan bagi para guru, yang laporannya bisa diakses juga oleh siswa sebagai agenda.
 
