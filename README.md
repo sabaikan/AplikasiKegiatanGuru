@@ -2,10 +2,6 @@
 
 Ini adalah proyek aplikasi web sederhana yang saya bangun untuk latihan dan portofolio. Tujuannya adalah untuk membuat sistem pencatatan kegiatan bagi para guru, yang laporannya bisa diakses juga oleh siswa sebagai agenda.
 
-## Latar Belakang Proyek
-
-Aplikasi ini dibuat sebagai sarana untuk mendalami pengembangan web menggunakan PHP native dari awal, serta manajemen database dengan MySQL. Saya ingin membuat sesuatu yang memiliki kegunaan praktis di lingkungan sekolah, yaitu mempermudah guru dalam mendokumentasikan pekerjaan harian dan memberikan informasi transparan kepada siswa.
-
 ## Apa yang Aplikasi Ini Lakukan?
 
 Secara singkat, aplikasi ini memiliki dua fungsi utama:
