@@ -39,4 +39,4 @@ Berikut adalah diagram yang saya buat pada tahap perancangan.
 ![ERD Aplikasi Kegiatan Guru](dbdiagram.png)
 
 **Alur Proses Login**
-![Flowchart Login](flowchart.drawio.png)
+![Flowchart Login](flowchart.drawio (1).png)
