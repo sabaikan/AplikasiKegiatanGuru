@@ -35,4 +35,15 @@ Berikut adalah diagram yang saya buat pada tahap perancangan.
 ![ERD Aplikasi Kegiatan Guru](dbdiagram.png)
 
 **Alur Proses Login**
-![Flowchart Login](flowchartguru.drawio.png)
+![Flowchart Login](flowchartguruu.drawio.png)
+
+## Catatan Pengembangan
+Proyek ini saya dedikasikan sebagai studi kasus untuk memahami alur kerja pengembangan aplikasi web secara menyeluruh. Tantangan utamanya adalah merancang struktur database yang logis dan membangun sistem hak akses pengguna (Admin, Guru, Siswa) dari nol menggunakan PHP native.
+
+Proses ini memberikan pemahaman yang lebih dalam mengenai:
+
+Manajemen state dan session untuk otentikasi pengguna.
+
+Penerapan operasi CRUD (Create, Read, Update, Delete) yang menjadi dasar interaksi data.
+
+Pentingnya memisahkan kode untuk logika, database, dan tampilan agar mudah dikelola.
