@@ -35,7 +35,7 @@ Berikut adalah diagram yang saya buat pada tahap perancangan.
 ![ERD Aplikasi Kegiatan Guru](dbdiagram.png)
 
 **Alur Proses Login**
-![Flowchart Login](flowchartguruu.drawio.png)
+![Flowchart Login](flowchartKegiatanGuru.drawio.png)
 
 ## Lisensi
 Proyek ini menggunakan Lisensi MIT. Hal ini berarti Anda bebas untuk menggunakan, menyalin, memodifikasi, menggabungkan, mempublikasikan, mendistribusikan, dan/atau menjual salinan dari perangkat lunak ini.
