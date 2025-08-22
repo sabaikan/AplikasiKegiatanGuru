@@ -1,7 +1,3 @@
-Tentu, ini adalah versi README tanpa emoji.
-
----
-
 # Aplikasi Peminjaman Fasilitas/Ruangan Sekolah
 
 Aplikasi web ini dibangun untuk mempermudah proses manajemen peminjaman fasilitas dan ruangan di lingkungan sekolah. Tujuannya adalah menciptakan sistem terpusat di mana siswa dan guru dapat mengajukan peminjaman secara online, dan admin dapat mengelolanya dengan efisien.
