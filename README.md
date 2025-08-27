@@ -50,8 +50,6 @@ Tujuannya adalah menciptakan sistem yang terpusat dan efisien, di mana guru dapa
 ### Tampilan Halaman Admin
 ![ERD](HalamanAdmin.png)  
 
-### Tampilan Halaman Guru
-
 ### Struktur Database (ERD)  
 ![ERD](dbdiagram.png)  
 
