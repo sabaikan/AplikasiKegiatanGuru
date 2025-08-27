@@ -1,4 +1,4 @@
-# Aplikasi Manajemen Kegiatan Guru  
+# Aplikasi Kegiatan Guru  
 
 Aplikasi web ini dibangun untuk membantu para guru dalam merencanakan, mengajukan, dan mendokumentasikan kegiatan sekolah secara digital.  
 Tujuannya adalah menciptakan sistem yang terpusat dan efisien, di mana guru dapat mengelola kegiatan mereka dan admin dapat memonitor serta memberikan persetujuan dengan mudah.  
