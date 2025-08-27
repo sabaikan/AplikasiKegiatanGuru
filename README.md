@@ -45,8 +45,10 @@ Tujuannya adalah menciptakan sistem yang terpusat dan efisien, di mana guru dapa
 ## Desain dan Alur  
 
 ### Tampilan Halaman Siswa
+![ERD](HalamanSiswa.png)  
 
 ### Tampilan Halaman Admin
+![ERD](HalamanAdmin.png)  
 
 ### Tampilan Halaman Guru
 
