@@ -44,6 +44,12 @@ Tujuannya adalah menciptakan sistem yang terpusat dan efisien, di mana guru dapa
 
 ## Desain dan Alur  
 
+### Tampilan Halaman Siswa
+
+### Tampilan Halaman Admin
+
+### Tampilan Halaman Guru
+
 ### Struktur Database (ERD)  
 ![ERD](dbdiagram.png)  
 
