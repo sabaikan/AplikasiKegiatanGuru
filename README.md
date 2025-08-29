@@ -57,7 +57,7 @@ Tujuannya adalah menciptakan sistem yang terpusat dan efisien, di mana guru dapa
 ![ERD](dbdiagram.png)  
 
 ### Alur Proses Login  
-![Flowchart Login](FlowchartKegiatanGuruu.drawio.png)  
+![Flowchart Login](Flowchart.drawio.png)  
 
 ---
 
